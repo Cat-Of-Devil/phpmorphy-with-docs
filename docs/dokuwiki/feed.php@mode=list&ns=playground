@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://phpmorphy.sourceforge.net/dokuwiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://phpmorphy.sourceforge.net/dokuwiki/feed.php">
+        <title>phpMorphy home playground</title>
+        <description></description>
+        <link>http://phpmorphy.sourceforge.net/dokuwiki/</link>
+        <image rdf:resource="http://phpmorphy.sourceforge.net/dokuwiki/lib/images/favicon.ico" />
+       <dc:date>2011-07-27T12:50:41+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://phpmorphy.sourceforge.net/dokuwiki/playground:playground?rev=1253827418&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://phpmorphy.sourceforge.net/dokuwiki/lib/images/favicon.ico">
+        <title>phpMorphy home</title>
+        <link>http://phpmorphy.sourceforge.net/dokuwiki/</link>
+        <url>http://phpmorphy.sourceforge.net/dokuwiki/lib/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://phpmorphy.sourceforge.net/dokuwiki/playground:playground?rev=1253827418&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2009-09-24T21:23:38+00:00</dc:date>
+        <title>playground:playground</title>
+        <link>http://phpmorphy.sourceforge.net/dokuwiki/playground:playground?rev=1253827418&amp;do=diff</link>
+        <description>phpMorphy – библиотека морфологического анализа, реализованная на платформе PHP.
+
+phpMorphy позволяет решать следующие задачи:
+
+	*  Лемматизация (получение нормальной формы слова)
+	*  Получение всех форм слова
+	*  Получение грамматической информации для слова (часть речи, падеж, спряжение и т.д.)
+	*  Изменение формы слова в соответствии с заданными грамматическими характеристиками
+	*  Изменение формы слова по заданному образцу…</description>
+    </item>
+</rdf:RDF>
